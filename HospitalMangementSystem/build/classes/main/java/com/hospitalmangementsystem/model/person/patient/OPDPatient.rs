@@ -1,0 +1,1 @@
+com.hospitalmangementsystem.model.person.patient.OPDPatient
